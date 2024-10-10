@@ -1,0 +1,58 @@
+body{
+    background-color: #14213d;
+    
+}
+.menu{
+    background-color: #fca311;
+    height: 50px;
+    width: 100%;
+
+}
+
+.principal{
+    background-color: #14213d;
+    height: 500px;
+    width: 100%;
+    
+}
+.tabela{
+    background-color: #e5e5e5;
+    height: 1000px;
+    width: 1500px;
+    margin-left: 280px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: top;
+}
+.tabela h3{
+    font-family: 'Xomai', sans-serif;
+                                                
+
+}
+.tabela p{
+    font-family: 'Xomai', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: top;
+
+}
+.rodape{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px;
+}
+.formulario{
+    background-color: #fca311;
+    height: 100px;
+    width: 100%;
+   
+}
+.embaixo{
+    background-color: #ffffff;
+    height: 100px;
+    width: 100%;
+}
